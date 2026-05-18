@@ -112,7 +112,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #ffffff;
+		color: #000000;
 		line-height: 1.5em;
 	}
 
@@ -131,11 +131,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #ffffff;
+			color: #000000;
 		}
 
 			h2.alt strong {
-				color: #ffffff;
+				color: #000000;
 			}
 
 	h3 {
@@ -2218,15 +2218,15 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ffffff;
+				color: #000000;
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-					color: #ffffff;
+					color: #000000;
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: #000000;
 					border-color: inherit;
 				}
 
