@@ -2246,12 +2246,12 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: #2ebfbf;
+				background-color: #2ebfbf;
 			}
 
 			#main > section.two {
-				background-color: url("../../images/banner.jpg");
+				background-color: #f5fafa;
+				background-image: url("../../images/banner.jpg");
 			}
 
 			#main > section.three {
