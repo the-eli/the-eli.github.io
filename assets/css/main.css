@@ -2245,12 +2245,12 @@ input, select, textarea {
 				background-position: center center;
 					}
 
-					#main > section.one {
+			#main > section.one {
     			background-image: url("../../images/banner.jpg");
     			background-size: cover;
     			background-position: center;
 			}
-		#main > section.two {
+			#main > section.two {
     			background-color: #f5fafa;
 			}
 
