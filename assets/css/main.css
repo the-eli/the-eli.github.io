@@ -2239,21 +2239,19 @@ input, select, textarea {
 						border-bottom-color: rgba(255, 255, 255, 0);
 					}
 
-			#main > section.cover {
+		#main > section.cover {
 				padding: 20em 0;
 				background-size: cover;
 				background-position: center center;
+					}
+
+					#main > section.one {
+    			background-image: url("../../images/banner.jpg");
+    			background-size: cover;
+    			background-position: center;
 			}
-
-			#main > section.one {
-				background-color: #f5fafa;
-			}
-
-
-			#main > section.two {
-				background-image: url("../../images/banner.jpg");
-				background-size: cover;
-   				background-position: center;
+		#main > section.two {
+    			background-color: #f5fafa;
 			}
 
 			#main > section.three {
